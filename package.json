@@ -25,7 +25,7 @@
     "mocha": "^5.2.0",
     "sinon": "^6.1.5",
     "sinon-chai": "^3.2.0",
-    "svelte": "^3.4.4"
+    "svelte": "github:Axelen123/svelte#hmr-hooks"
   },
   "peerDependencies": {
     "svelte": "3.x",
